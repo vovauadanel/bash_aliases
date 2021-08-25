@@ -1,0 +1,6 @@
+* Python
+alias p='python3'
+* Clear
+alias c='clear'
+* History
+alias h='history'
