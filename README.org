@@ -1,6 +1,6 @@
-* Python
+** Python
 alias p='python3'
-* Clear
+** Clear
 alias c='clear'
-* History
+** History
 alias h='history'
