@@ -4,3 +4,5 @@ alias p='python3'
 alias c='clear'
 ** History
 alias h='history'
+** Vim
+alias vim='nvim'
